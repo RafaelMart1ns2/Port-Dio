@@ -1,4 +1,4 @@
-# DIO l Rafael Martins
+# 👾 l Rafael Martins
 
 Repositório para armazenamento de resumos.
 
