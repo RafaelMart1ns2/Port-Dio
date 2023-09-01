@@ -1,4 +1,4 @@
-# 👾 l Rafael Martins
+# 👾 l Rafael Martins l 👾
 
 Repositório para armazenamento de resumos.
 
@@ -8,7 +8,19 @@ Repositório para armazenamento de resumos.
 -
 -
 
-## 🔎 Referências
+## 🔎 Projetos com Python
+
+-
+-
+-
+
+## 🔎 Projetos com Banco de Dados SQL e NoSQL
+
+-
+-
+-
+
+## 🔎 Projetos com Power BI
 
 -
 -
