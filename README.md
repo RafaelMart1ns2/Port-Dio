@@ -1,8 +1,9 @@
 # 📈 l Rafael Martins l 📈
 
-Técnico em Administração e Tecnólogo em Gestão Financeira, criando projetos da área financeira atrelado a Ciência de Dados.
+## Técnico em Administração, Tecnólogo em Gestão Financeira e graduando em Administração. Focando em interligar a área financeira com Ciência de Dados.
 
-![Bolsa-628x353-307](https://github.com/RafaelMart1ns2/Port-Dio/assets/143142299/95eaf7f3-0560-4dd8-88ee-d5b997a7a54c)
+## ![e31b1c_393ad455319e4933a243e6a9b3f22b53~mv2](https://github.com/RafaelMart1ns2/Port-Dio/assets/143142299/cd0e4c43-71bd-497d-b8a9-87e8eabb13a8)
+
 
 ## 💻 Linha de Projetos
 
