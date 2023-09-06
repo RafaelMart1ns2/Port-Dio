@@ -1,6 +1,8 @@
-# 👾 l Rafael Martins l 👾
+# 📈 l Rafael Martins l 📈
 
-Repositório para armazenamento de resumos.
+Técnico em Administração e Tecnólogo em Gestão Financeira, criando projetos da área financeira atrelado a ciência de dados. Ademais, faço uso de Python, Banco de Dados SQL e Power BI.
+
+![Bolsa-628x353-307](https://github.com/RafaelMart1ns2/Port-Dio/assets/143142299/95eaf7f3-0560-4dd8-88ee-d5b997a7a54c)
 
 ## 💻 Resumos
 
@@ -8,23 +10,6 @@ Repositório para armazenamento de resumos.
 -
 -
 
-## 🔎 Projetos com Python
-
--
--
--
-
-## 🔎 Projetos com Banco de Dados SQL e NoSQL
-
--
--
--
-
-## 🔎 Projetos com Power BI
-
--
--
--
 
 ## Redes Sociais
 
